@@ -40,7 +40,11 @@ Instructions for generating .py files from notebooks.
 Submission checklist details.
 
 ##FIT5196 S2 2024 Assessment 2
+
 CS Tutor |stromtech| Code Help | Programming Help
+
 ##WeChat: stromtech
+
 ##Email: antotech874@gmail.com
+
 ##Whatsapp: +254 712-495-486
